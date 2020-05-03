@@ -1,0 +1,6 @@
+5
+Vous jetez une piece
+dans la fontaine,
+...
+...
+Rien ne se passe.
